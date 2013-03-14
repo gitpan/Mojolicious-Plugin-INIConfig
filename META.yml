@@ -20,4 +20,4 @@ no_index:
 requires:
   Config::Tiny: 2.14
   Mojolicious: 2.98
-version: 0.01
+version: 0.02
