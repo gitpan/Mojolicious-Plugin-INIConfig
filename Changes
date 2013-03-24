@@ -1,4 +1,6 @@
-0.02 (alpha release)
-  Added caution
-0.01 (alpha release)
-  First release.
+0.03
+  fixed requried Mojolicious version
+0.02
+  added CAUTION
+0.01
+  (alpha release) First release.
